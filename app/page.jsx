@@ -13,6 +13,9 @@ export default function HomePage() {
 				alt="img the cat"
 				style={{ borderRadius: "5px" }}
 			/>
+			create by megapastelito
+			<br />
+			hostyn by google clone
 		</>
 	);
 }
