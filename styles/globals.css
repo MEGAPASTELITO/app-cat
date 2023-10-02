@@ -1,7 +1,9 @@
 html,
 body {
+
   padding: 0;
-  margin: 0;
+  max-width: 900px;
+  margin:  7px auto;
   font-family:
     Inter,
     -apple-system,
@@ -29,4 +31,10 @@ a {
 img {
   max-width: 100%;
   height: auto;
+}
+
+@media (max-width:920px) {
+  body{
+    margin: auto;
+  }
 }
